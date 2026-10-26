@@ -1,96 +1,143 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0757B8,100:00B7FF&height=210&section=header&text=EBERSON%20GUAYLLAS&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development&descSize=18&descAlignY=61&animation=fadeIn" alt="Eberson Guayllas - Computer Engineering"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BFF,45:007BFF,75:00CFFF,100:00E5A8&height=220&section=header&text=EBERSON%20GUAYLLAS%20POMA&fontSize=37&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20IoT%20%7C%20Sistemas%20Inteligentes&descSize=19&descAlignY=61&animation=fadeIn" alt="Eberson Guayllas Poma | Software, IoT y sistemas inteligentes"/>
 
-### Hola, soy Eberson Daniel Guayllas Poma
+### ¡Hola! Soy Eberson 👋
 
-**Estudiante de Ingeniería en Computación · Universidad Nacional de Loja**
+**Estudiante de Ingeniería en Ciencias de la Computación**  
+**Universidad Nacional de Loja · Ecuador 🇪🇨**
 
-Desarrollo de software · Backend · APIs REST · Estructuras de datos
+*Me gusta transformar ideas en soluciones: desde aplicaciones y sistemas inteligentes hasta prototipos con Arduino.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ebertr1-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebertr1)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-007BFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
+[![GitHub](https://img.shields.io/badge/Mi%20GitHub-171B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebertr1)
+[![Portafolio](https://img.shields.io/badge/Portafolio-007BFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
+![Aprendizaje](https://img.shields.io/badge/Siempre%20aprendiendo-00BFA6?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-SOBRE%20MÍ-007BFF?style=flat-square" alt="01 Sobre mí"/>
+## 🚀 Un poco sobre mí
 
-Soy estudiante de **Ingeniería en Computación** en la **Universidad Nacional de Loja, Ecuador**. Me interesa construir soluciones de software útiles, mantener un código organizado y seguir mejorando mis habilidades de desarrollo.
+Soy **Eberson Guayllas Poma**, estudiante de Ingeniería en Ciencias de la Computación de la **Universidad Nacional de Loja**. Disfruto explorar cómo la programación puede resolver problemas reales, especialmente combinando **software, bases de datos, electrónica e Internet de las Cosas (IoT)**.
 
-- **Áreas de interés:** desarrollo backend, programación orientada a objetos, estructuras de datos y arquitectura de software.
-- **Experiencia académica:** proyectos con Java, Maven, persistencia de datos y servicios REST.
-- **En aprendizaje continuo:** inteligencia artificial, sistemas distribuidos y buenas prácticas de ingeniería.
+He participado en proyectos académicos de **compiladores, sistemas distribuidos, virtualización y automatización**. También he trabajado con **Arduino y prototipos de carros**, una experiencia que me motiva a seguir conectando el mundo físico con el digital.
 
-## <img src="https://img.shields.io/badge/02-TECNOLOGÍAS-007BFF?style=flat-square" alt="02 Tecnologías"/>
+Fuera del código, el **arbitraje deportivo** ha sido parte importante de mi formación personal: me ha enseñado a liderar, comunicarme con claridad, actuar con imparcialidad y tomar decisiones bajo presión.
+
+> 💡 **Mi enfoque:** aprender haciendo, colaborar con responsabilidad y crear tecnología que sea realmente útil.
+
+## 🧰 Tecnologías que utilizo y estudio
 
 <div align="center">
 
-**Lenguajes**
+**Programación y desarrollo**
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00B7FF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B7FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00B7FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00B7FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-**Herramientas y conceptos**
+**Bases de datos, sistemas y herramientas**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B7FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B7FF)
-![Maven](https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=00B7FF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00B7FF)
-![REST API](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=postman&logoColor=00B7FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-## <img src="https://img.shields.io/badge/03-PROYECTOS%20DESTACADOS-007BFF?style=flat-square" alt="03 Proyectos destacados"/>
+**También exploro:** APIs REST · Linux · replicación de bases de datos · análisis y diseño de software · sensores · automatización · ciberseguridad · inteligencia artificial.
 
-### [Compilador de lenguaje tipado estático + IA local](https://github.com/ebertr1/compilador-llm)
+## ✨ Proyectos y experiencias que me representan
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Agro-Smart
+**Riego inteligente · IoT · Sensores**
+
+Participación en el diseño de una solución para monitorear variables del suelo y apoyar la automatización del riego agrícola, con énfasis en el uso eficiente del agua.
+
+<sub>Proyecto académico de diseño y desarrollo.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Compilador + IA local](https://github.com/ebertr1/compilador-llm)
 **Python · PLY · Flask · Ollama**
 
-Compilador académico con análisis léxico, sintáctico y semántico, verificación de tipos y una integración con IA local para explicar errores. Expone funcionalidades mediante una API web.
+Análisis léxico, sintáctico y semántico de un lenguaje tipado, con árboles de sintaxis y asistencia de IA local para explicar errores.
 
-### [Sistemas virtuales y servicios](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
+[Explorar repositorio](https://github.com/ebertr1/compilador-llm)
 
-**VirtualBox · Microsoft Azure · Git**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Proyecto académico sobre entornos de virtualización local y despliegue de servicios en la nube.
+### 🐳 [Sistemas virtuales](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
+**VirtualBox · Azure · Git**
 
-### [Registro de asistencia](https://github.com/ebertr1/Registro-de-asistencia)
+Prácticas de virtualización y servicios en la nube. Además, he trabajado académicamente con Docker, PostgreSQL y conceptos de replicación y recuperación.
 
-Proyecto de gestión de asistencia. **Documentación técnica en preparación.**
+[Explorar repositorio](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
 
-### [AppStudy](https://github.com/ebertr1/AppStudy)
+</td>
+<td width="50%" valign="top">
 
-Repositorio de desarrollo de software. **Documentación técnica en preparación.**
+### 🤖 Arduino y prototipos
+**Electrónica · Automatización · IoT**
 
-<sub>Estos proyectos reflejan actividades de formación y desarrollo; revisa los repositorios para consultar su implementación.</sub>
+Experiencia práctica con Arduino y proyectos de carros, explorando cómo integrar programación y componentes físicos en prototipos.
 
-## <img src="https://img.shields.io/badge/04-ACTIVIDAD%20EN%20GITHUB-007BFF?style=flat-square" alt="04 Actividad en GitHub"/>
+<sub>Experiencia práctica en aprendizaje.</sub>
+
+</td>
+</tr>
+</table>
+
+**Otros repositorios:** [Registro de asistencia](https://github.com/ebertr1/Registro-de-asistencia) · [AppStudy](https://github.com/ebertr1/AppStudy) · [Ver todos mis proyectos](https://github.com/ebertr1?tab=repositories)
+
+## ⚽ Más allá de la programación: arbitraje deportivo
+
+El arbitraje es otra parte de mi identidad. Dirigir encuentros deportivos me ha ayudado a desarrollar habilidades que también aplico en proyectos tecnológicos:
+
+| En el arbitraje | En el desarrollo de software |
+|---|---|
+| ⚖️ Imparcialidad y ética | Decisiones responsables |
+| 🎯 Decidir bajo presión | Resolver problemas con criterio |
+| 🗣️ Comunicación clara | Colaboración con equipos |
+| 🤝 Gestión de conflictos | Coordinación y liderazgo |
+| 📋 Respeto por las reglas | Disciplina y buenas prácticas |
+
+## 🌟 Hacia dónde quiero crecer
+
+Quiero seguir desarrollándome en **ingeniería de software, IoT y sistemas inteligentes**, participar en equipos que construyan soluciones innovadoras y aplicar mis conocimientos en problemas del mundo real.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebertr1&show_icons=true&theme=github_dark&hide_border=true&title_color=00B7FF&icon_color=00B7FF" alt="Estadísticas de GitHub de Eberson"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebertr1&layout=compact&theme=github_dark&hide_border=true&title_color=00B7FF" alt="Lenguajes utilizados en GitHub"/>
+### 📊 Mi actividad en GitHub
 
-<sub>Las estadísticas dependen de un servicio externo y pueden no estar disponibles temporalmente.</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebertr1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=9D65FF&text_color=E6EDF3" alt="Estadísticas de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebertr1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=E6EDF3" alt="Lenguajes en repositorios de GitHub"/>
 
-</div>
+<sub>Las estadísticas las ofrece un servicio externo y podrían no cargar temporalmente.</sub>
 
-## <img src="https://img.shields.io/badge/05-CONTACTO-007BFF?style=flat-square" alt="05 Contacto"/>
+### 📫 Conectemos
 
-- **GitHub:** [@ebertr1](https://github.com/ebertr1)
-- **Portafolio:** [ebertr1.github.io](https://ebertr1.github.io/)
-- **Ubicación:** Loja, Ecuador
+[![GitHub](https://img.shields.io/badge/GitHub-ebertr1-171B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebertr1)
+[![Web](https://img.shields.io/badge/Mi%20sitio-00A9E0?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
 
----
+**📍 Loja, Ecuador**
 
-<div align="center">
+**«Aprender, construir y mejorar. Dentro y fuera del código».**
 
-**Aprender. Construir. Mejorar.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0757B8,100:00B7FF&height=110&section=footer" alt="Pie de página azul"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BFF,45:007BFF,75:00CFFF,100:00E5A8&height=120&section=footer" alt="Pie decorativo degradado"/>
 
 </div>
