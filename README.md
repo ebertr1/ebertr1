@@ -44,15 +44,29 @@ Soy estudiante de **Ingeniería en Computación** en la **Universidad Nacional d
 
 </div>
 
-## <img src="https://img.shields.io/badge/03-PROYECTOS-007BFF?style=flat-square" alt="03 Proyectos destacados"/>
+## <img src="https://img.shields.io/badge/03-PROYECTOS%20DESTACADOS-007BFF?style=flat-square" alt="03 Proyectos destacados"/>
 
-| Repositorio | Enlace |
-|:--|:--|
-| **AppStudy** | [Explorar proyecto](https://github.com/ebertr1/AppStudy) |
-| **Registro de asistencia** | [Explorar proyecto](https://github.com/ebertr1/Registro-de-asistencia) |
-| **Portafolio web** | [Explorar código](https://github.com/ebertr1/ebertr1.github.io) |
+### [Compilador de lenguaje tipado estático + IA local](https://github.com/ebertr1/compilador-llm)
 
-> Los proyectos se encuentran en distintas etapas de desarrollo y documentación. Visita cada repositorio para conocer el código disponible.
+**Python · PLY · Flask · Ollama**
+
+Compilador académico con análisis léxico, sintáctico y semántico, verificación de tipos y una integración con IA local para explicar errores. Expone funcionalidades mediante una API web.
+
+### [Sistemas virtuales y servicios](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
+
+**VirtualBox · Microsoft Azure · Git**
+
+Proyecto académico sobre entornos de virtualización local y despliegue de servicios en la nube.
+
+### [Registro de asistencia](https://github.com/ebertr1/Registro-de-asistencia)
+
+Proyecto de gestión de asistencia. **Documentación técnica en preparación.**
+
+### [AppStudy](https://github.com/ebertr1/AppStudy)
+
+Repositorio de desarrollo de software. **Documentación técnica en preparación.**
+
+<sub>Estos proyectos reflejan actividades de formación y desarrollo; revisa los repositorios para consultar su implementación.</sub>
 
 ## <img src="https://img.shields.io/badge/04-ACTIVIDAD%20EN%20GITHUB-007BFF?style=flat-square" alt="04 Actividad en GitHub"/>
 
