@@ -1,33 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BFF,45:007BFF,75:00CFFF,100:00E5A8&height=220&section=header&text=EBERSON%20GUAYLLAS%20POMA&fontSize=37&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20IoT%20%7C%20Sistemas%20Inteligentes&descSize=19&descAlignY=61&animation=fadeIn" alt="Eberson Guayllas Poma | Software, IoT y sistemas inteligentes"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2442,35:FF6B22,70:00C86F,100:06D6A0&height=220&section=header&text=EBERSON%20GUAYLLAS%20POMA&fontSize=37&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20IoT%20%7C%20Sistemas%20Inteligentes&descSize=19&descAlignY=61&animation=fadeIn" alt="Eberson Guayllas Poma | Software, IoT y sistemas inteligentes"/>
 
-### ¡Hola! Soy Eberson 👋
+### Hola, soy Eberson
 
 **Estudiante de Ingeniería en Ciencias de la Computación**  
-**Universidad Nacional de Loja · Ecuador 🇪🇨**
+**Universidad Nacional de Loja · Ecuador**
 
 *Me gusta transformar ideas en soluciones: desde aplicaciones y sistemas inteligentes hasta prototipos con Arduino.*
 
 [![GitHub](https://img.shields.io/badge/Mi%20GitHub-171B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebertr1)
-[![Portafolio](https://img.shields.io/badge/Portafolio-007BFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
-![Aprendizaje](https://img.shields.io/badge/Siempre%20aprendiendo-00BFA6?style=for-the-badge&logo=bookstack&logoColor=white)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF2442?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
+![Aprendizaje](https://img.shields.io/badge/Siempre%20aprendiendo-00C86F?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Un poco sobre mí
+## Sobre mí
 
 Soy **Eberson Guayllas Poma**, estudiante de Ingeniería en Ciencias de la Computación de la **Universidad Nacional de Loja**. Disfruto explorar cómo la programación puede resolver problemas reales, especialmente combinando **software, bases de datos, electrónica e Internet de las Cosas (IoT)**.
 
 He participado en proyectos académicos de **compiladores, sistemas distribuidos, virtualización y automatización**. También he trabajado con **Arduino y prototipos de carros**, una experiencia que me motiva a seguir conectando el mundo físico con el digital.
 
-Fuera del código, el **arbitraje deportivo** ha sido parte importante de mi formación personal: me ha enseñado a liderar, comunicarme con claridad, actuar con imparcialidad y tomar decisiones bajo presión.
+> **Mi enfoque:** aprender haciendo, colaborar con responsabilidad y crear tecnología que sea realmente útil.
 
-> 💡 **Mi enfoque:** aprender haciendo, colaborar con responsabilidad y crear tecnología que sea realmente útil.
-
-## 🧰 Tecnologías que utilizo y estudio
+## Tecnologías que utilizo y estudio
 
 <div align="center">
 
@@ -53,13 +51,13 @@ Fuera del código, el **arbitraje deportivo** ha sido parte importante de mi for
 
 **También exploro:** APIs REST · Linux · replicación de bases de datos · análisis y diseño de software · sensores · automatización · ciberseguridad · inteligencia artificial.
 
-## ✨ Proyectos y experiencias que me representan
+## Proyectos y experiencias
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Agro-Smart
+### Agro-Smart
 **Riego inteligente · IoT · Sensores**
 
 Participación en el diseño de una solución para monitorear variables del suelo y apoyar la automatización del riego agrícola, con énfasis en el uso eficiente del agua.
@@ -69,7 +67,7 @@ Participación en el diseño de una solución para monitorear variables del suel
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Compilador + IA local](https://github.com/ebertr1/compilador-llm)
+### [Compilador + IA local](https://github.com/ebertr1/compilador-llm)
 **Python · PLY · Flask · Ollama**
 
 Análisis léxico, sintáctico y semántico de un lenguaje tipado, con árboles de sintaxis y asistencia de IA local para explicar errores.
@@ -81,7 +79,7 @@ Análisis léxico, sintáctico y semántico de un lenguaje tipado, con árboles 
 <tr>
 <td width="50%" valign="top">
 
-### 🐳 [Sistemas virtuales](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
+### [Sistemas virtuales](https://github.com/ebertr1/VirtualSystems_PIS_2026.)
 **VirtualBox · Azure · Git**
 
 Prácticas de virtualización y servicios en la nube. Además, he trabajado académicamente con Docker, PostgreSQL y conceptos de replicación y recuperación.
@@ -91,7 +89,7 @@ Prácticas de virtualización y servicios en la nube. Además, he trabajado acad
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Arduino y prototipos
+### Arduino y prototipos
 **Electrónica · Automatización · IoT**
 
 Experiencia práctica con Arduino y proyectos de carros, explorando cómo integrar programación y componentes físicos en prototipos.
@@ -104,40 +102,28 @@ Experiencia práctica con Arduino y proyectos de carros, explorando cómo integr
 
 **Otros repositorios:** [Registro de asistencia](https://github.com/ebertr1/Registro-de-asistencia) · [AppStudy](https://github.com/ebertr1/AppStudy) · [Ver todos mis proyectos](https://github.com/ebertr1?tab=repositories)
 
-## ⚽ Más allá de la programación: arbitraje deportivo
-
-El arbitraje es otra parte de mi identidad. Dirigir encuentros deportivos me ha ayudado a desarrollar habilidades que también aplico en proyectos tecnológicos:
-
-| En el arbitraje | En el desarrollo de software |
-|---|---|
-| ⚖️ Imparcialidad y ética | Decisiones responsables |
-| 🎯 Decidir bajo presión | Resolver problemas con criterio |
-| 🗣️ Comunicación clara | Colaboración con equipos |
-| 🤝 Gestión de conflictos | Coordinación y liderazgo |
-| 📋 Respeto por las reglas | Disciplina y buenas prácticas |
-
-## 🌟 Hacia dónde quiero crecer
+## Hacia dónde quiero crecer
 
 Quiero seguir desarrollándome en **ingeniería de software, IoT y sistemas inteligentes**, participar en equipos que construyan soluciones innovadoras y aplicar mis conocimientos en problemas del mundo real.
 
 <div align="center">
 
-### 📊 Mi actividad en GitHub
+### Mi actividad en GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebertr1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=9D65FF&text_color=E6EDF3" alt="Estadísticas de GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebertr1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=E6EDF3" alt="Lenguajes en repositorios de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebertr1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=00DA78&text_color=E6EDF3" alt="Estadísticas de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebertr1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DA78&text_color=E6EDF3" alt="Lenguajes en repositorios de GitHub"/>
 
 <sub>Las estadísticas las ofrece un servicio externo y podrían no cargar temporalmente.</sub>
 
-### 📫 Conectemos
+### Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-ebertr1-171B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebertr1)
-[![Web](https://img.shields.io/badge/Mi%20sitio-00A9E0?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
+[![Web](https://img.shields.io/badge/Mi%20sitio-00C86F?style=for-the-badge&logo=githubpages&logoColor=white)](https://ebertr1.github.io/)
 
-**📍 Loja, Ecuador**
+**Loja, Ecuador**
 
-**«Aprender, construir y mejorar. Dentro y fuera del código».**
+**«Aprender, construir y mejorar».**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BFF,45:007BFF,75:00CFFF,100:00E5A8&height=120&section=footer" alt="Pie decorativo degradado"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2442,35:FF6B22,70:00C86F,100:06D6A0&height=120&section=footer" alt="Pie decorativo degradado"/>
 
 </div>
